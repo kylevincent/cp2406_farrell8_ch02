@@ -15,6 +15,6 @@ public class TravelTickets
         if (ActualTicketNumber % 7 == LastTIcketNumber )
             System.out.println("True");
         else
-            System.out.println("False");
+            System.out.println("Falseheheh");
     }
 }
